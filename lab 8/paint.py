@@ -89,7 +89,7 @@ while True:
                     
             
             
-        #print("{} {} {} {}".format(prevX, prevY, currentX, currentY))
+        
         
     pygame.display.flip()
     clock.tick(60)
